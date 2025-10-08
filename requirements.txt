@@ -1,0 +1,17 @@
+datasets
+sympy
+wandb
+bitsandbytes
+unsloth
+torch
+transformers
+peft
+accelerate
+gtts
+playsound
+pydub
+git+https://github.com/openai/whisper.git
+pysrt
+instagrapi
+google-api-python-client
+oauth2client
